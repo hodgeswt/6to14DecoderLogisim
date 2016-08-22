@@ -2,7 +2,7 @@
 A circuit that takes a 6-bit input and outputs 14 signals to control two 7-segment displays
 
 # How To Use
-Import `6to14Decoder.circ` into your Logisim circuit. You can do this via `Project>Load Library>Logisim Library...`). 
+Import `6to14Decoder.circ` into your Logisim circuit. (You can do this via `Project>Load Library>Logisim Library...`). 
 
 Your sidebar should now look similar to this:  ![screenshot of logisim](https://raw.githubusercontent.com/hodgeswt/6to14DecoderLogisim/master/Photos/Screen%20Shot%202016-08-22%20at%202.33.05%20PM.png)
 
